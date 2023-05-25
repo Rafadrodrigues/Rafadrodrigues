@@ -2,6 +2,7 @@
 
 - 🔭 Atualmente, estou aberto a oportunidade para atuar como cientista de dados ou desenvolvedor.
 - 🌱 Estou dedicando meu tempo de estudo ao Python, entretanto, estou a disposição para conhecer novas ferramentas e tecnologias.
+<br>
 
 <div style="display: inline_block">
   
@@ -14,7 +15,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <h1 align="center">Tecnologias e Ferramentas ⚡</h1>
+    <h3 align="center">Tecnologias e Ferramentas ⚡</h3>
       <img align="center" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
       <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
       <img align="center" alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -24,7 +25,7 @@
       <img align="center"alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
    </div>
     
-  <h1 align="center">Contatos</h1>
+  <h3 align="center">Contatos</h3>
     <a href = "mailto: rafarodrigues919@gmail.com">
       <img width="93" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
