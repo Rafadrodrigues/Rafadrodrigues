@@ -1,7 +1,7 @@
 ### Fala galera,bão? Eu sou Rafael,graduando em Sistemas de Informação. 👋.
 
 - 🔭 Atualmente, estou aberto a oportunidade para atuar como cientista de dados ou desenvolvedor.
-- 🌱 Estou dedicando meu tempo de estudo principalmente ao Python, entretanto, estou a disposição para conhecer novas ferramentas e tecnologias.
+- 🌱 Estou dedicando meu tempo de estudo ao Python, entretanto, estou a disposição para conhecer novas ferramentas e tecnologias.
 
 <div style="display: inline_block">
   
