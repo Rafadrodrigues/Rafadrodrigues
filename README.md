@@ -7,6 +7,8 @@
 <div style="display: inline_block">
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rafadrodrigues&show_icons=true&theme=tokyonight" />
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafadrodrigues&hide_progress=false&theme=tokyonight" />
 </div>
 <br>
 
