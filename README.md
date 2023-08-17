@@ -6,10 +6,7 @@
 
 <div style="display: inline_block">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rafadrodrigues&theme=midnight-purple&_icons=true" />
-
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafadrodrigues&layout=compact&langs_count=16&theme=midnight-purple" />
-
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rafadrodrigues&show_icons=true&theme=tokyonight" />
 </div>
 <br>
 
