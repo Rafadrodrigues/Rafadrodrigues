@@ -9,7 +9,7 @@ Enthusiastic Information Systems graduate with a passion for data analysis and p
 - 👨‍💻  Developer
 
 #### I'm graduating in Information Systems at UFVJM.
-- 🌎  I'm currently looking for job opportunities as a data analyst or programmer.
+- 🌎  I'm currently looking for job opportunities as a data analyst or developer.
 - 🌱  I'm dedicating my study time to the field of data analyst. I use Python as my language programming, but i'm also willing to learn new tools and technologies.
 
 
