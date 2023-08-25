@@ -1,4 +1,7 @@
-### Hi dear 👋, I'm Rafael Rodrigues.
+### Hi, I'm Rafael Rodrigues.👋👨‍💻
+
+Enthusiastic Information Systems graduate with a passion for data analysis and programming. Eager to apply my skills and knowledge to real-world challenges in a dynamic and collaborative environment. Proficient in Python programming and eager to learn and adapt to new tools and technologies.
+
 
 - 📊  Data Analysis.
 - 👨‍💻  Developer
@@ -10,23 +13,24 @@
 
 <div  align="left"> 
   <div style="display: inline_block"><br>
-    <h3 align="left">Technologies and tools 🕹️</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="80"/> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="80"/>         
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="80"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="80"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="80"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="80"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
+    <h3 align="left">Languages and tools 🕹️</h3>
+      <img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="80"/> 
+      <img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="80"/>         
+      <img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="80"/>
+      <img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="80"/>
+      <img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="80"/>
+      <img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="80"/>
+      <img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
 </div>
 <br>
 <br>
 
 #### About me:
-* Diamantina/MG - Brazil  📌
-* Student 👨🏽‍🎓
-* Let's code? 👨‍💻
-
+<br>
+* 📍 Diamantina/MG - Brazil <br>
+* 👨🏽‍🎓 Student <br>
+* 👨‍💻 Let's code? <br>
+<br>
 <a align="left" href = "https://www.linkedin.com/in/rafael-rodrigues-469b0b239/">
   <img width="115" alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
