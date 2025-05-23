@@ -1,45 +1,31 @@
-### Olá, me chamo Rafael. Seja Bem-Vindo ao meu perfil!👋
+### Hello, i am Rafael. Welcome to my profile!👋
 
-<img align="center" alt="Coding" width="980" height="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-#### Sobre mim:
-* Graduando em Sistemas de Informação pela Universidade Federal dos Vales do Jequitinhonha e Mucuri,com grande interesse e curiosidade com a área de dados, busco uma oportunidade de atuar como Analista de Dados, Analista de Bi, Desenvolvedor ou estagiário.🧐
+#### About me:
+I am currently working as a Planning & Measurement Supervisor III at Guimarães Construção e Administração, a company that operates in the civil construction sector with a focus on industrial projects.
 
-* No meu tempo livre, costumo praticar esportes, assistir filmes/séries e sair para socializar. No entanto, 
-estou sempre buscando me manter atualizado e reservo um tempo para estudar sobre tecnologias, 
-negócios e aprender um novo idioma.☕
+In my role, I am responsible for collecting and analyzing data from various sources and creating reports for leadership, always aiming to support the decision-making process. In other words, I work as a Data Analyst within the construction domain. I need to deal with targets. These are just a few examples of my day-to-day activities at work.
 
+To carry out my tasks effectively, I use the following technologies:
+<br>
 <div  align="center"> 
-  <div style="display: inline_block"><br>
-    <h3 align="center">Tecnologias 🖥️</h3>
-    <img src="https://skillicons.dev/icons?i=python,git,java,mysql,django,postgresql" />
+  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 </div>
-<br>
 
+#### Skills:
 
-<div style="display: inline_block">
-  <h3 align="center">Contato 📞</h3>
-<!--   <img src="https://skillicons.dev/icons?i=linkedin,gmail" /> -->
-  <a align="left" href = "https://www.linkedin.com/in/rafael-rodrigues-469b0b239/">
-  <img width="115" alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href = "mailto: rafarodrigues919@gmail.com">
-<img width="93" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<!--   <img align="center" src="https://streak-stats.demolab.com/?user=Rafadrodrigues&theme=highcontrast">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafadrodrigues&hide_progress=false&theme=highcontrast" /> -->
-</div>
-<br>
+• Programming language and tools: Python, SQL, Power BI
 
-<!--
-Here are some ideas to get you started:
+• Libraries used in Data Analysis/Data Science: Pandas, Numpy, Matplotlib, Seaborn, Plotly, Scikit-learn
 
-- 🔭 I’m currently looking for a job ...
-- 🌱 I’m currently learning Python...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Cloud Computing and others: Google Cloud Platform (GCP), API's
+
+#### Project:
+
+Here are some of the projects I've developed over the years. In each of them I used at least one of the technologies mentioned above.
